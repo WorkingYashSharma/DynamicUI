@@ -1,125 +1,93 @@
 {
-  "header": {
-    "title": "BlinkIt",
-    "backgroundColor": "#FFFF00",
-    "height": 60,
-    "position": 1
-  },
-  "sections": [
+    "header": {
+      "title": "BlinkIt",
+      "backgroundColor": "#FFFF00",
+      "height": 60
+    },
+    "banners": [
+      {
+        "imageUrl": "https://images.creatopy.com/public/templates/gallery/img/bxnag83it/Fresh-Organic-Groceries-Delivery.jpg",
+        "width": 350,
+        "height": 150
+      },
+      {
+        "imageUrl": "https://img.freepik.com/premium-vector/exclusive-deal-offer-banner-design_686319-947.jpg",
+        "width": 350,
+        "height": 150
+      }
+    ],
+    "categories": [
+      {
+        "name": "Fruits",
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/036/131/589/non_2x/fruit-or-vegetable-logo-illustration-vector.jpg",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "name": "Dairy",
+        "imageUrl": "https://media.istockphoto.com/id/2022550503/vector/cow-logo-cow-farm-logo-design-vector-vintage-cattle-angus-beef-logo.jpg?s=612x612&w=0&k=20&c=eSDaE5jws547scOmx8z1C8LLDbXs-123PCowMZ6ARM8=",
+        "width": 70,
+        "height": 70
+      },
+      {
+        "name": "Snacks",
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/005/013/755/non_2x/snack-logo-design-with-cassava-chips-icon-and-letter-s-initials-free-vector.jpg",
+        "width": 75,
+        "height": 75
+      },
+      {
+        "name": "Household",
+        "imageUrl": "https://media.istockphoto.com/id/1347472701/vector/house-holding-care-logo-vector-design-illustration.jpg?s=612x612&w=0&k=20&c=mkNHMRgJRx37xxkBQ-flvg1BTI7y93dIKkLSxMNSKpE=",
+        "width": 85,
+        "height": 85
+      }
+    ],
+    "products": [
+      {
+        "name": "Apples",
+        "price": 120,
+        "imageUrl": "https://hbkonline.in/pub/media/catalog/product/a/p/apple_fruit_powder3.jpg",
+        "discount": 10,
+        "width": 150,
+        "height": 150
+      },
+      {
+        "name": "Milk",
+        "price": 50,
+        "imageUrl": "https://cdn.zeptonow.com/production///tr:w-640,ar-742-910,pr-true,f-auto,q-80/cms/product_variant/4c04e61c-b5d8-4867-b949-e5c3cdafa67a.png",
+        "discount": 5,
+        "width": 150,
+        "height": 150
+      },
+      {
+        "name": "Chips",
+        "price": 30,
+        "imageUrl": "https://www.quickpantry.in/cdn/shop/products/lay-s-chile-limon-potato-chips-32-g-quick-pantry.jpg?v=1710539171&width=900",
+        "discount": 2,
+        "width": 150,
+        "height": 150
+      },
+      {
+        "name": "Chocolate",
+        "price": 40,
+        "imageUrl": "https://m.media-amazon.com/images/I/713bIr0x6aL.jpg",
+        "discount": 5,
+        "width": 150,
+        "height": 150
+      }
+    ],
+    "offers": [
     {
-      "position": 1,
-      "name": "banners",
-      "content": [
-        {
-          "position": 1,
-          "imageUrl": "https://images.creatopy.com/public/templates/gallery/img/bxnag83it/Fresh-Organic-Groceries-Delivery.jpg",
-          "width": 350,
-          "height": 150
-        },
-        {
-          "position": 2,
-          "imageUrl": "https://img.freepik.com/premium-vector/exclusive-deal-offer-banner-design_686319-947.jpg",
-          "width": 350,
-          "height": 150
-        }
-      ]
+      "imageUrl": "https://via.placeholder.com/200x100/FF5722/FFFFFF?text=20%25+OFF",
+      "description": "Get 20% OFF on fresh groceries!"
     },
     {
-      "position": 2,
-      "name": "categories",
-      "content": [
-        {
-          "position": 1,
-          "name": "Fruits",
-          "imageUrl": "https://static.vecteezy.com/system/resources/previews/036/131/589/non_2x/fruit-or-vegetable-logo-illustration-vector.jpg",
-          "width": 80,
-          "height": 80
-        },
-        {
-          "position": 2,
-          "name": "Dairy",
-          "imageUrl": "https://media.istockphoto.com/id/2022550503/vector/cow-logo-cow-farm-logo-design-vector-vintage-cattle-angus-beef-logo.jpg?s=612x612&w=0&k=20&c=eSDaE5jws547scOmx8z1C8LLDbXs-123PCowMZ6ARM8=",
-          "width": 70,
-          "height": 70
-        },
-        {
-          "position": 3,
-          "name": "Snacks",
-          "imageUrl": "https://static.vecteezy.com/system/resources/previews/005/013/755/non_2x/snack-logo-design-with-cassava-chips-icon-and-letter-s-initials-free-vector.jpg",
-          "width": 75,
-          "height": 75
-        },
-        {
-          "position": 4,
-          "name": "Household",
-          "imageUrl": "https://media.istockphoto.com/id/1347472701/vector/house-holding-care-logo-vector-design-illustration.jpg?s=612x612&w=0&k=20&c=mkNHMRgJRx37xxkBQ-flvg1BTI7y93dIKkLSxMNSKpE=",
-          "width": 85,
-          "height": 85
-        }
-      ]
+      "imageUrl": "https://via.placeholder.com/200x100/4CAF50/FFFFFF?text=BUY+1+GET+1",
+      "description": "Buy 1 Get 1 on selected items!"
     },
     {
-      "position": 3,
-      "name": "products",
-      "content": [
-        {
-          "position": 1,
-          "name": "Apples",
-          "price": 120,
-          "imageUrl": "https://hbkonline.in/pub/media/catalog/product/a/p/apple_fruit_powder3.jpg",
-          "discount": 10,
-          "width": 150,
-          "height": 150
-        },
-        {
-          "position": 2,
-          "name": "Milk",
-          "price": 50,
-          "imageUrl": "https://cdn.zeptonow.com/production///tr:w-640,ar-742-910,pr-true,f-auto,q-80/cms/product_variant/4c04e61c-b5d8-4867-b949-e5c3cdafa67a.png",
-          "discount": 5,
-          "width": 150,
-          "height": 150
-        },
-        {
-          "position": 3,
-          "name": "Chips",
-          "price": 30,
-          "imageUrl": "https://www.quickpantry.in/cdn/shop/products/lay-s-chile-limon-potato-chips-32-g-quick-pantry.jpg?v=1710539171&width=900",
-          "discount": 2,
-          "width": 150,
-          "height": 150
-        },
-        {
-          "position": 4,
-          "name": "Chocolate",
-          "price": 40,
-          "imageUrl": "https://m.media-amazon.com/images/I/713bIr0x6aL.jpg",
-          "discount": 5,
-          "width": 150,
-          "height": 150
-        }
-      ]
-    },
-    {
-      "position": 4,
-      "name": "offers",
-      "content": [
-        {
-          "position": 1,
-          "imageUrl": "https://via.placeholder.com/200x100/FF5722/FFFFFF?text=20%25+OFF",
-          "description": "Get 20% OFF on fresh groceries!"
-        },
-        {
-          "position": 2,
-          "imageUrl": "https://via.placeholder.com/200x100/4CAF50/FFFFFF?text=BUY+1+GET+1",
-          "description": "Buy 1 Get 1 on selected items!"
-        },
-        {
-          "position": 3,
-          "imageUrl": "https://via.placeholder.com/200x100/FF7043/FFFFFF?text=EXTRA+5%25+OFF",
-          "description": "Extra 5% OFF with Blinkit Pay."
-        }
-      ]
+      "imageUrl": "https://via.placeholder.com/200x100/FF7043/FFFFFF?text=EXTRA+5%25+OFF",
+      "description": "Extra 5% OFF with Blinkit Pay."
     }
   ]
 }
