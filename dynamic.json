@@ -1,5 +1,5 @@
 {
-  "sectionsOrdering": ["offers", "banners", "products", "categories"],
+  "sectionsOrdering": ["banners", "offers", "categories", "products"],
   "header": {
     "title": "BlinkIt",
     "backgroundColor": "#FFFF00",
@@ -57,7 +57,7 @@
       "height": 150
     },
     {
-      "name": "Choco",
+      "name": "Chocolate",
       "price": 40,
       "imageUrl": "https://m.media-amazon.com/images/I/713bIr0x6aL.jpg",
       "discount": 5,
@@ -85,7 +85,7 @@
       "height": 75
     },
     {
-      "name": "House",
+      "name": "Household",
       "imageUrl": "https://media.istockphoto.com/id/1347472701/vector/house-holding-care-logo-vector-design-illustration.jpg?s=612x612&w=0&k=20&c=mkNHMRgJRx37xxkBQ-flvg1BTI7y93dIKkLSxMNSKpE=",
       "width": 85,
       "height": 85
