@@ -16,32 +16,6 @@
       "height": 150
     }
   ],
-  "categories": [
-    {
-      "name": "Fruits",
-      "imageUrl": "https://static.vecteezy.com/system/resources/previews/036/131/589/non_2x/fruit-or-vegetable-logo-illustration-vector.jpg",
-      "width": 80,
-      "height": 80
-    },
-    {
-      "name": "Dairy",
-      "imageUrl": "https://media.istockphoto.com/id/2022550503/vector/cow-logo-cow-farm-logo-design-vector-vintage-cattle-angus-beef-logo.jpg?s=612x612&w=0&k=20&c=eSDaE5jws547scOmx8z1C8LLDbXs-123PCowMZ6ARM8=",
-      "width": 70,
-      "height": 70
-    },
-    {
-      "name": "Snacks",
-      "imageUrl": "https://static.vecteezy.com/system/resources/previews/005/013/755/non_2x/snack-logo-design-with-cassava-chips-icon-and-letter-s-initials-free-vector.jpg",
-      "width": 75,
-      "height": 75
-    },
-    {
-      "name": "Household",
-      "imageUrl": "https://media.istockphoto.com/id/1347472701/vector/house-holding-care-logo-vector-design-illustration.jpg?s=612x612&w=0&k=20&c=mkNHMRgJRx37xxkBQ-flvg1BTI7y93dIKkLSxMNSKpE=",
-      "width": 85,
-      "height": 85
-    }
-  ],
   "offers": [
     {
       "imageUrl": "https://media.istockphoto.com/id/598820096/vector/twenty-percents-sale.jpg?s=612x612&w=0&k=20&c=nGIUSXRYbzRyL7T8r5Rexyemmu8-jIlflQ4RI3wIKEw=",
@@ -82,12 +56,38 @@
       "height": 150
     },
     {
-      "name": "Chocolate",
+      "name": "Choco",
       "price": 40,
       "imageUrl": "https://m.media-amazon.com/images/I/713bIr0x6aL.jpg",
       "discount": 5,
       "width": 150,
       "height": 150
+    }
+  ],
+  "categories": [
+    {
+      "name": "Fruits",
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/036/131/589/non_2x/fruit-or-vegetable-logo-illustration-vector.jpg",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "name": "Dairy",
+      "imageUrl": "https://media.istockphoto.com/id/2022550503/vector/cow-logo-cow-farm-logo-design-vector-vintage-cattle-angus-beef-logo.jpg?s=612x612&w=0&k=20&c=eSDaE5jws547scOmx8z1C8LLDbXs-123PCowMZ6ARM8=",
+      "width": 70,
+      "height": 70
+    },
+    {
+      "name": "Snacks",
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/005/013/755/non_2x/snack-logo-design-with-cassava-chips-icon-and-letter-s-initials-free-vector.jpg",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "name": "House",
+      "imageUrl": "https://media.istockphoto.com/id/1347472701/vector/house-holding-care-logo-vector-design-illustration.jpg?s=612x612&w=0&k=20&c=mkNHMRgJRx37xxkBQ-flvg1BTI7y93dIKkLSxMNSKpE=",
+      "width": 85,
+      "height": 85
     }
   ]
 }
