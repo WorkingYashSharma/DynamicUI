@@ -1,5 +1,5 @@
 {
-  "sectionsOrdering": ["header", "banners", "offers", "categories", "products"],
+  "sectionsOrdering": ["banners", "offers", "products", "categories"],
   "header": {
     "title": "BlinkIt",
     "backgroundColor": "#FFFF00",
