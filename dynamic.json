@@ -44,15 +44,15 @@
   ],
   "offers": [
     {
-      "imageUrl": "https://via.placeholder.com/200x100/FF5722/FFFFFF?text=20%25+OFF",
+      "imageUrl": "https://media.istockphoto.com/id/598820096/vector/twenty-percents-sale.jpg?s=612x612&w=0&k=20&c=nGIUSXRYbzRyL7T8r5Rexyemmu8-jIlflQ4RI3wIKEw=",
       "description": "Get 20% OFF on fresh groceries!"
     },
     {
-      "imageUrl": "https://via.placeholder.com/200x100/4CAF50/FFFFFF?text=BUY+1+GET+1",
+      "imageUrl": "https://m.media-amazon.com/images/I/61f4WZ2KpJL._AC_UF1000,1000_QL80_.jpg",
       "description": "Buy 1 Get 1 on selected items!"
     },
     {
-      "imageUrl": "https://via.placeholder.com/200x100/FF7043/FFFFFF?text=EXTRA+5%25+OFF",
+      "imageUrl": "https://img.freepik.com/premium-vector/get-extra-5-percent-off-sale-5-percent-circle-sticker-banner-badge-symbol-vector-illustration_1077884-1912.jpg",
       "description": "Extra 5% OFF with Blinkit Pay."
     }
   ],
