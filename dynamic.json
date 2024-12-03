@@ -42,6 +42,20 @@
       "height": 85
     }
   ],
+  "offers": [
+    {
+      "imageUrl": "https://via.placeholder.com/200x100/FF5722/FFFFFF?text=20%25+OFF",
+      "description": "Get 20% OFF on fresh groceries!"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/200x100/4CAF50/FFFFFF?text=BUY+1+GET+1",
+      "description": "Buy 1 Get 1 on selected items!"
+    },
+    {
+      "imageUrl": "https://via.placeholder.com/200x100/FF7043/FFFFFF?text=EXTRA+5%25+OFF",
+      "description": "Extra 5% OFF with Blinkit Pay."
+    }
+  ],
   "products": [
     {
       "name": "Apples",
@@ -74,20 +88,6 @@
       "discount": 5,
       "width": 150,
       "height": 150
-    }
-  ],
-  "offers": [
-    {
-      "imageUrl": "https://via.placeholder.com/200x100/FF5722/FFFFFF?text=20%25+OFF",
-      "description": "Get 20% OFF on fresh groceries!"
-    },
-    {
-      "imageUrl": "https://via.placeholder.com/200x100/4CAF50/FFFFFF?text=BUY+1+GET+1",
-      "description": "Buy 1 Get 1 on selected items!"
-    },
-    {
-      "imageUrl": "https://via.placeholder.com/200x100/FF7043/FFFFFF?text=EXTRA+5%25+OFF",
-      "description": "Extra 5% OFF with Blinkit Pay."
     }
   ]
 }
